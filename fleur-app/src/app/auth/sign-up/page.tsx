@@ -1,4 +1,5 @@
 // pages/custom-sign-up.tsx
+"use client"
 import React, { useState, ChangeEvent, FormEvent } from 'react';
 import { useSignUp } from '@clerk/nextjs';
 
